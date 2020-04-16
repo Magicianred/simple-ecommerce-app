@@ -8,7 +8,7 @@ The project not include payment system. It sends an email to ecommerce manage wh
 ## UML Diagrams  
 
 ### Use Case
-![Diagram](https://github.com/Magicianred/eimple-ecommerce-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/eimple-ecommerce-app/blob/master/Project/Diagrams/UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/eimple-ecommerce-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
+![Diagram](https://github.com/Magicianred/simple-ecommerce-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-ecommerce-app/blob/master/Project/Diagrams/UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-ecommerce-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
 
